@@ -8,7 +8,7 @@
 
 | 作品 | 介绍 | 项目与源码 | 安装包与历史版本 |
 | --- | --- | --- | --- |
-| 温故 | [把经验放进锁屏](https://www.zhutufang.cn/articles/wengu-experience-wallpaper/) | [wengu-android](https://github.com/wangsir9825/wengu-android) | 首个公开版本待发布 |
+| 温故 | [把经验放进锁屏](https://www.zhutufang.cn/articles/wengu-experience-wallpaper/) | [wengu-android](https://github.com/wangsir9825/wengu-android) | [0.3.0 试用版与历史 APK](https://github.com/wangsir9825/wengu-android/releases/tag/v0.3.0) · [网盘下载](https://pan.baidu.com/s/1-ZV3McrNwXdkg2V2Bq14pg?pwd=pzu7)（提取码 pzu7） |
 
 ## 网站与 Web 应用
 
@@ -36,7 +36,7 @@
 2. 使用 GitHub Releases 上传 APK 和对应版本的更新说明；保留已经发布的历史版本。
 3. APK 文件名包含作品名、版本和平台，例如 `wengu-v1.0.0-android.apk`。
 4. 同一份安装包备份到百度网盘，保存对应的更新说明和 SHA-256 校验值。
-5. 百度网盘的最新版文件夹仅保留当前正式版；旧版移动到历史版本下的独立版本文件夹。
-6. 网站下载地址指向正式版下载入口，项目首页指向对应 GitHub 仓库。
+5. 百度网盘的最新版文件夹保留当前公开版本并标注试用状态；旧 APK 在历史版本目录按版本号命名，多附件版本使用独立版本文件夹。
+6. 网站下载地址指向当前公开版本下载入口，项目首页指向对应 GitHub 仓库。
 
-首次发布前，需要整理可公开的源码与安装包。签名密钥、密码、API 密钥和个人运行数据不进入公开仓库。
+每次发布前，整理可公开的源码与安装包。签名密钥、密码、API 密钥和个人运行数据不进入公开仓库。
