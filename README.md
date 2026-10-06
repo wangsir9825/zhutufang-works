@@ -16,7 +16,9 @@
 
 ## 桌面应用
 
-后续作品在此登记。
+| 作品 | 介绍 | 项目与源码 | 下载与版本 |
+| --- | --- | --- | --- |
+| 简下载 | [下载文件的 Windows 小工具](https://www.zhutufang.cn/articles/acb6c6dd-5be6-4a96-9639-1493095004b3/) | [simple-downloader](https://github.com/wangsir9825/simple-downloader) | [v1.0.1 · Windows x64](https://github.com/wangsir9825/simple-downloader/releases/tag/v1.0.1) · [网盘下载](https://pan.baidu.com/s/11t7p4yhzz8izw1T3-enDpg?pwd=db8t)（提取码 db8t） |
 
 ## 工具与自动化
 
